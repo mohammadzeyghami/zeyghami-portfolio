@@ -22,8 +22,8 @@ const Hero = () => {
             im a frontend develoepr with more than <br /> 3 years experiance
           </p>
         </div>
-        <ComputersCanvas />
       </div>
+      <ComputersCanvas />
     </section>
   );
 };
