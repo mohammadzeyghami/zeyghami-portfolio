@@ -42,11 +42,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Eccomerce",
+    title: "Eccomerces",
     icon: web,
   },
   {
-    title: "Landing page",
+    title: "Landing pages",
     icon: mobile,
   },
   {
